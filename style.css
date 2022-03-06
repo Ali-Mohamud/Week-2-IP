@@ -62,4 +62,13 @@ body {
     color: black;
     border: none;
   }
+
+  #output {
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bold;
+    font-size: 2.1rem;
+    margin-left: 25%;
+    padding: 1em;
+  }
   
