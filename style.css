@@ -21,3 +21,9 @@ body {
     font-weight: bold;
     padding-top: 1.5em;
   }
+
+  hr {
+    background-color: rgb(241, 184, 79);
+    margin-inline: 32%;
+    margin-top: -0.3em;
+  }
