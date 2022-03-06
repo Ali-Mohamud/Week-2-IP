@@ -37,3 +37,8 @@ body {
     line-height: 2.5em;
   }
   
+
+  .gender-selection {
+    margin-left: 10em;
+    padding: 2em;
+  }
