@@ -56,4 +56,10 @@ body {
     margin-inline: 36%;
   }
   
+
+  .btn:hover {
+    background: gold;
+    color: black;
+    border: none;
+  }
   
