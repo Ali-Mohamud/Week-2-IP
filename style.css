@@ -47,4 +47,13 @@ body {
     color: white;
     font-weight: bold;
   }
+
+
+  .btn {
+    background-color: white;
+    color: black;
+    border: none;
+    margin-inline: 36%;
+  }
+  
   
