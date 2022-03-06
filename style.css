@@ -27,3 +27,13 @@ body {
     margin-inline: 32%;
     margin-top: -0.3em;
   }
+
+  .description {
+    margin-bottom: 20px;
+    background-color: rgb(245, 213, 69);
+    padding: 1.5em;
+    border: none;
+    border-radius: 1em;
+    line-height: 2.5em;
+  }
+  
