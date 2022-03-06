@@ -6,3 +6,11 @@ body {
     background-repeat: no-repeat;
   }
   
+
+  h1 {
+    text-align: center;
+    color: white;
+    padding-top: 1.2em;
+    font-weight: bold;
+  }
+  
