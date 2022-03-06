@@ -42,3 +42,9 @@ body {
     margin-left: 10em;
     padding: 2em;
   }
+
+  .col-md-2 {
+    color: white;
+    font-weight: bold;
+  }
+  
